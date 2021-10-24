@@ -1,0 +1,17 @@
+C:\Users\Artemon\RiderProjects\test\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\Artemon\RiderProjects\test\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Artemon\RiderProjects\test\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\Artemon\RiderProjects\test\Repository\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Artemon\RiderProjects\test\Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Artemon\RiderProjects\test\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\Artemon\RiderProjects\test\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\Artemon\RiderProjects\test\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Artemon\RiderProjects\test\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Artemon\RiderProjects\test\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\Artemon\RiderProjects\test\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.json
+C:\Users\Artemon\RiderProjects\test\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.dev.json
+C:\Users\Artemon\RiderProjects\test\Repository\obj\Debug\netcoreapp3.1\Repository.genruntimeconfig.cache
+C:\Users\Artemon\RiderProjects\test\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\Artemon\RiderProjects\test\Repository\bin\Debug\netcoreapp3.1\Dto.Json.dll
+C:\Users\Artemon\RiderProjects\test\Repository\bin\Debug\netcoreapp3.1\Dto.Json.pdb
+C:\Users\Artemon\RiderProjects\test\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+<p>
+  Название отдела:
+  <input type="text" [(ngModel)]="departmentName">
+</p>
+<p>
+  <button [routerLink]="'/departments-configuration'">Назад</button>
+  <button (click)="saveDepartment()">Сохранить</button>
+</p>

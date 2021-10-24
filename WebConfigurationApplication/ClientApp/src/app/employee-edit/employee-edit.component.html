@@ -1,0 +1,20 @@
+<p>
+  Имя сотрудника:
+  <input type="text" [(ngModel)]="employeeName">
+</p>
+<p>
+  Зарплата:
+  <input type="number" [(ngModel)]="employeeSalary">
+</p>
+<p>
+  Отдел:
+  <select name="department" [(ngModel)]="employeeDepartmentId">
+    <option *ngFor="let dep of departments" [ngValue]="dep.id">
+      {{dep.name}}
+    </option>
+  </select>
+</p>
+<p>
+  <button [routerLink]="'/employees-configuration'">Назад</button>
+  <button (click)="saveEmployee()">Сохранить</button>
+</p>

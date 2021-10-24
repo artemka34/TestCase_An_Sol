@@ -1,0 +1,9 @@
+C:\Users\Artemon\RiderProjects\test\Dto.Json\bin\Debug\netcoreapp3.1\Dto.Json.deps.json
+C:\Users\Artemon\RiderProjects\test\Dto.Json\bin\Debug\netcoreapp3.1\Dto.Json.dll
+C:\Users\Artemon\RiderProjects\test\Dto.Json\bin\Debug\netcoreapp3.1\Dto.Json.pdb
+C:\Users\Artemon\RiderProjects\test\Dto.Json\obj\Debug\netcoreapp3.1\Dto.Json.AssemblyInfoInputs.cache
+C:\Users\Artemon\RiderProjects\test\Dto.Json\obj\Debug\netcoreapp3.1\Dto.Json.AssemblyInfo.cs
+C:\Users\Artemon\RiderProjects\test\Dto.Json\obj\Debug\netcoreapp3.1\Dto.Json.csproj.CoreCompileInputs.cache
+C:\Users\Artemon\RiderProjects\test\Dto.Json\obj\Debug\netcoreapp3.1\Dto.Json.dll
+C:\Users\Artemon\RiderProjects\test\Dto.Json\obj\Debug\netcoreapp3.1\Dto.Json.pdb
+C:\Users\Artemon\RiderProjects\test\Dto.Json\obj\Debug\netcoreapp3.1\Dto.Json.csprojAssemblyReference.cache

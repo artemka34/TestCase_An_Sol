@@ -1,0 +1,43 @@
+<h1 id="tableLabel">Сотрудники</h1>
+
+<p>Здесь отображаются данные об сотрудниках отдела</p>
+
+<ng-template [ngIf]="departments.length > 0" [ngIfElse]="noDepartments">
+<p *ngIf="!employees"><em>Loading...</em></p>
+
+<select name="department" [(ngModel)]="selectedDepartmentId" (ngModelChange)="updateSelectedDepartment()">
+  <option *ngFor="let dep of departments" [ngValue]="dep.id">
+    {{dep.name}}
+  </option>
+</select>
+
+
+<p *ngIf="selectedDepartment">Средняя зп в отделе: {{selectedDepartment.departmentDetails.meanSalary}}</p>
+
+<p>
+  <button [routerLink]="'/employee-edit'">Добавить сотрудника</button>
+</p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="employees">
+  <thead>
+  <tr>
+    <th>Имя</th>
+    <th>Зарплата</th>
+    <th>Действия</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let employee of employees">
+    <td>{{ employee.name }}</td>
+    <td>{{ employee.salary }}</td>
+    <td>
+      <button [routerLink]="'/employee-edit/'+employee.id">Edit</button>
+      <button (click)="deleteEmployee(employee.id)">Delete</button>
+    </td>
+  </tr>
+  </tbody>
+</table>
+
+</ng-template>
+
+<ng-template #noDepartments>Необходимо добавить отделы сначала.</ng-template>
