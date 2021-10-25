@@ -2,6 +2,7 @@
 	- .NET Core SDK 3.1
 	- EntityFramework
 	- SQL Server Express 2019
+	- Node.js
 2. Решение разделено на две архитектурные части:
 	- Веб-приложение (Angular front + .NET back)
 	- Микросервис для работы с БД (к API есть документаия в swagger, можно получить по localhost:5002/swagger)
